@@ -1,0 +1,17 @@
+c:\Users\manoj\Project\test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\manoj\Project\test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\manoj\Project\test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\Users\manoj\Project\test\bin\Debug\netcoreapp2.1\test.deps.json
+c:\Users\manoj\Project\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.json
+c:\Users\manoj\Project\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.dev.json
+c:\Users\manoj\Project\test\bin\Debug\netcoreapp2.1\test.dll
+c:\Users\manoj\Project\test\bin\Debug\netcoreapp2.1\test.pdb
+c:\Users\manoj\Project\test\obj\Debug\netcoreapp2.1\test.csprojAssemblyReference.cache
+c:\Users\manoj\Project\test\obj\Debug\netcoreapp2.1\test.csproj.CoreCompileInputs.cache
+c:\Users\manoj\Project\test\obj\Debug\netcoreapp2.1\test.AssemblyInfoInputs.cache
+c:\Users\manoj\Project\test\obj\Debug\netcoreapp2.1\test.AssemblyInfo.cs
+c:\Users\manoj\Project\test\obj\Debug\netcoreapp2.1\test.dll
+c:\Users\manoj\Project\test\obj\Debug\netcoreapp2.1\test.pdb
+C:\Users\manoj\Project\test\bin\Debug\netcoreapp2.1\src.dll
+C:\Users\manoj\Project\test\bin\Debug\netcoreapp2.1\src.pdb
+C:\Users\manoj\Project\test\obj\Debug\netcoreapp2.1\test.csproj.CopyComplete
